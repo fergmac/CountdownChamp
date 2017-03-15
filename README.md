@@ -1,4 +1,3 @@
 ## React Countdown Champ App
 
-![Alt text](/screenshots/CountdownChamp.png "Countdown");
-
+![Alt text](/screenshots/CountdownChamp.png "Countdown")
